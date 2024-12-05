@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ADFTrainCICD"
+		},
+		"LS_ADLS1_accountKey": {
+			"value": ""
+		},
+		"LS_ADLS1_properties_typeProperties_url": {
+			"value": "https://azuretrain2024stg.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
