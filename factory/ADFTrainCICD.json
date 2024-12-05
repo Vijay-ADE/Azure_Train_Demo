@@ -1,0 +1,9 @@
+{
+	"name": "ADFTrainCICD",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8406e4a0-f8d4-445a-b40a-e7caa82c338b",
+		"tenantId": "b7859d3c-81b6-4d38-b85e-4db5bfdb099d"
+	}
+}
